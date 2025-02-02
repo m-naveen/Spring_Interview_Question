@@ -24,7 +24,7 @@ This repository aims to help you prepare for Spring Framework interviews by prov
 To use this repository, browse through the topics and questions. You can also clone the repository to your local machine for offline access.
 
 ```sh
-git clone 
+git clone https://github.com/m-naveen/Spring_Interview_Question.git
 ```
 
 ## Contributing
